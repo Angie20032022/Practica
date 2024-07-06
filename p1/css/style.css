@@ -1,0 +1,24 @@
+/*estilo de etiqueta*/
+body {
+     front=font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+     background-color: aqua; 
+    }
+    h1{
+        color: celeste;
+    }
+button{
+    padding: 10px 20px;
+    background-color: indianred;
+    color:lavender
+    /*border: none;*/
+    cursor : pointer;
+    transition: background-color 0.3s ease;
+    margin: 20px;
+    }             20px
+button:hovert {
+background-color: L#4bc4d4;
+} 
+
+    /*estilo de clase*/
+    .body{
+        color: rgb(187, 133, 164);
